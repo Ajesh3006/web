@@ -12,7 +12,7 @@ const Navbar: React.FC = () => {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link to="/" className="flex-shrink-0 flex items-center">
-              <span className="text-indigo-600 font-bold text-xl">AppName</span>
+              <span className="text-indigo-600 font-bold text-xl">DashBoard</span>
             </Link>
           </div>
           
